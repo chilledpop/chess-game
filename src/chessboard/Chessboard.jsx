@@ -7,8 +7,8 @@ function Chessboard() {
 
   return (
     <>
-      <div id="chessboard" className="container h-100 d-flex align-items-center justify-content-center" style={ {background: '#7F6239'} }>
-        i am the chessboard! -.-
+      <div className="container d-flex align-items-center justify-content-center" style={ { background: '#B58863', height: "800px", width: "800px" } }>
+        Let's play chess! -.-
       </div>
     </>
   )
