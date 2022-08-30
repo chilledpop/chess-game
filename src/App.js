@@ -3,7 +3,7 @@ import Chessboard from './chessboard/Chessboard';
 
 function App() {
   return (
-    <div id="app">
+    <div>
       <Chessboard />
     </div>
   );
